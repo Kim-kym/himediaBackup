@@ -1,0 +1,15 @@
+--- 캘린더 라이브러리 ---
+npm install react-datepicker 
+npm install date-fns 
+
+--- 지도 라이브러리 ----
+npm install leaflet 
+npm install react-leaflet 
+
+--- 아이콘 라이브러리 ---
+npm i --save @fortawesome/fontawesome-svg-core
+npm install --save @fortawesome/free-solid-svg-icons
+npm install --save @fortawesome/react-fontawesome 
+--------------------------
+
+npm install react-router-dom 
